@@ -1,7 +1,7 @@
 ## 编辑
 	cmd-enter 在下方新建一行
 	shift-cmd-enter 在上方新建一行
-	ctrl-shift-D 复制当前行
+	cmd-shift-D 复制当前行
 	ctrl-shift-K 删除当前行
 	ctrl-cmd-down 把当前行下移
 	ctrl-cmd-up 把当前行上移

@@ -2,6 +2,7 @@
 
 - [Dom selectors](https://github.com/crazyjwl/FE-Notes/blob/master/DOM-selectors.txt)
 - [Atom快捷键](https://github.com/crazyjwl/FE-Notes/blob/master/Atom%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+- [ES6小结（一）](https://github.com/crazyjwl/FE-Notes/blob/master/ES6%E5%B0%8F%E7%BB%93.md)
 - [Pig Game](https://crazyjwl.github.io/FE-Notes)
 
   GAME RULES:

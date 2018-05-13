@@ -1,3 +1,5 @@
+# ES6小结（一）
+
 # ECMAScript6？ ES2015？ JavaScript？
 ### ECMAScript 和 JavaScript
 > ECMAScript是JavaScript的规格（标准），JavaScript是JavaScript的一种实现（另外的 ECMAScript 方言还有 Jscript 和 ActionScript）。日常场合，这两个词是可以互换的。
